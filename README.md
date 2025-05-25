@@ -35,7 +35,7 @@ This project demonstrates a basic **Retrieval-Augmented Generation (RAG)** setup
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/esha-nasar/ai-writer-app.git
+git clone https://github.com/esha-nasar/rag-doc.git
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
